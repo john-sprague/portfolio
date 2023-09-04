@@ -35,6 +35,13 @@ export default function Home() {
 			</h1>
 
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
+			<div className="my-16 text-center animate-fade-in">
+				<h2 className="text-md text-zinc-500 ">
+					Hi, my name is John, I'm an Enterprise Software Engineer with knowledge and experience in front-end / full stack development, 
+          <br/>
+          UX, and complex problem solving, producing code and features that strengthened applications for IBM.
+				</h2>
+			</div>
 		</div>
   )
 }
